@@ -34,3 +34,16 @@ dependencias
   4. Atulizou o script de start para utilizar o nodemon
   5. adicionar o .gitignore e ignorar a node_modules
  - modelar o nosso banco
+ - criou a função de conexao do banco
+ 1. basico do app
+  - importar o express
+  - criar o app
+  - usar o body-parser
+  - exportar o app
+  - no server.js
+    - importa o app
+    - coloca o servidor para ouvir
+2. basico da controller
+  - importar o banco
+  - criar um get all
+  - exportar o get all
