@@ -1,11 +1,37 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
-
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+## Reprograma Geek
+Para continuar o nosso { Reprograma Geek } vamos desenvolver mais uma API para um novo dominio( animes, cartoon, desenho... - nesse contexto ). Precisamos fazer um CRUD e nossa API precisa ser RESTful
 ---
+
+## Regras de negocio
+
+### status code
+
+#### obrigátorios
+- [ ] Ao criar deve retornar o status 201
+- [ ] Ao fazer qualquer leitura deve retornar o status 200
+
+#### opcional / recomendação
+- [ ] Ao deletar deve retornar o status 204
+- [ ] Ao editar deve retornar o status 204
+
+### endpoints
+
+#### obrigátorios
+- [ ] É necessário criar uma model( um arquivo json ) com 3 personagens cadastrados, contendo 4 propriedades.
+- [ ] É necessário criar a função db e nela importar o JSON que foi modelado.
+- [ ] Os endpoint deve ter como path(caminho) a sua escolha, por exemplo: `/anime`
+- [ ] A Api deve ser capaz por meio de um endpoint de consulta encontar um personagem por ID
+- [ ] A Api deve ser capaz por meio de um endpoint de consulta, que suporte query params (parametros de consulta), O mesmo deverá retornar todos os dados(personagens) caso não seja passada. Caso seja passado um parametro na query, deve retornar os dados(personagens) filtrados. Caso o resultado seja vazio(não encontrado), deve retornar um erro 404.
+- [ ] A Api deve ser capaz de cadastrar um novo personagem, 2 campos precisam ser obrigátorios e válidados. Caso não sejam prenchidos, deverá retornar um erro 400 (bad request). O mesmo, deverá ser capaz de gerar um novo ID válido sequencial e númerico.
+
+#### opcionais
+
+- [ ] A Api deverá ser capaz de atualizar um personagem
+- [ ] A Api deverá ser capaz de deletar um personagem
+
+
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
