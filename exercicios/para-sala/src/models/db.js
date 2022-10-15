@@ -1,5 +1,5 @@
 const db = (anime) => {
-  return Promise((resolve, reject) => {
+  return new Promise((resolve, reject) => {
     setTimeout(() => {
       if (anime === "the-simpsons") {
         return resolve(require("./theSimpsonsModel.json"))

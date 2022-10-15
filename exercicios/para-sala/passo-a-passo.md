@@ -47,3 +47,8 @@ dependencias
   - importar o banco
   - criar um get all
   - exportar o get all
+3. basico da router
+  - import o express
+  - cria o router (para ter acesso aos metodos http)
+  - criamos os endpoints
+  - exportamos a router
