@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "nome" : "Docinho",
+        "genero": "feminino",
+        "personalidade": "Ela gosta de beijos, embora negue. Ela é a mais violenta das meninas, pois, mesmo quando o inimigo que ela enfrenta está machucado, ela continua a bater nele. Também é muito mal-humorada e não gosta de dias chuvosos. tem o cabelo mais curto comparado às outras meninas."
+    },
+    {
+        "id": 1,
+        "nome": "Lindinha",
+        "genero":"feminino",
+        "personalidade": "Ela é considerada ingênua e sensível, mas também é muitas vezes irresponsável e teimosa. Muitos inimigos consideram ela o ponto fraco da equipe. No entanto, se Townsville está ameaçada, ela não hesitará em lutar para protegê-la. Lindinha é a que mais demonstra tratar Professor Utônio realmente como um não como o pai."
+    },
+{
+    "id": 2,
+    "nome": "Florzinha",
+    "genero": "feminino",
+    "personalidade":"Personalidade. Muitas vezes ela se mostrou vaidosa e frequentemente mandona com suas irmãs. Geralmente discute com Docinho por causa de sua liderança e age como uma mãe para as meninas, especialmente com Docinho. Ela sempre dá o primeiro soco nas lutas contra vilões como Sedusa, Fuzzy Confusão e Macaco Louco."
+
+},
+
+{
+    "id": 3,
+    "nome": "Macaco Louco",
+    "genero": "masculino",
+    "personalidade": "Ele é odiado por macacos e símios pois eles acham que o Macaco Louco lhes dá uma fama ruim. Sabe-se que ele é um mestre da cozinha japonesa. dele. As meninas também tendem a tratá-lo como um vizinho amigável, muitas vezes chegando a sua casa para pedir favores, sem atacá-lo"
+}
+
+]
