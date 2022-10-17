@@ -1,0 +1,26 @@
+[
+    {
+      "id" : 0,
+      "nome" : "Roy Haylock",
+      "nomeDrag" : "Bianca Del Rio",
+      "idade" : 47,
+      "profissao" : "Drag Queen",
+      "temporadaDragRaceQueGanhou" : "Temporada 6"
+    },
+    {
+        "id" : 1,
+        "nome" : "Christopher Caldwell",
+        "nomeDrag" : "Bob the Drag Queen",
+        "idade" : 36,
+        "profissao" : "Drag Queen",
+        "temporadaDragRaceQueGanhou" : "Temporada 8"
+    },
+    {
+        "id" : 2,
+        "nome" : "Reggie Gavin",
+        "nomeDrag" : "Symone",
+        "idade" : 27,
+        "profissao" : "Drag Queen",
+        "temporadaDragRaceQueGanhou" : "Temporada 13"
+    }
+  ]
