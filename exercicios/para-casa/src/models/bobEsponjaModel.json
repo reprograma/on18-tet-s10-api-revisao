@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "nome": "Bob Esponja",
+        "especie": "Esponja marinha",
+        "residencia": "Abacaxi",
+        "bio": "Personagem principal do seriado, SpongeBob é uma esponja do mar antropomórfica de índole amável, ingênua e entusiasta. Ele reside na cidade subaquática Bikini Bottom, mora num abacaxi e trabalha no restaurante de serviço rápido Krusty Krab. No seriado, mantêm amizade com Patrick Star e Sandy Cheeks, além de trabalhar com Squidward Tentacles e Mr. Krabs, este último proprietário do restaurante. Ele é visto praticando caratê, caçando águas-vivas e fazendo bolhas de sabão. O personagem demonstra uma grande devoção ao seu emprego e está constantemente sendo reprovado no exame de direção."
+    },
+    {
+        "id": 1,
+        "nome": "Patrick",
+        "especie": "Estrela do mar",
+        "residencia": "Sob uma rocha",
+        "bio": "Patrick Star é uma estrela-do-mar antropomórfica de coloração rosa. Ele é retratado com sobrepeso e pouco inteligente. Ele é amigo de SpongeBob e não possui ocupação e normalmente aparece dormindo ou assistindo televisão em sua residência. O personagem frequentemente irrita os demais habitantes da cidade subaquática e demonstra uma grande dificuldade em compreender tópicos ou assuntos."
+    },
+    {
+        "id": 2,
+        "nome": "Lula Molusco",
+        "especie": "polvo",
+        "residencia": "Moai",
+        "bio": "Lula Molusco é um polvo antropomórfico caracterizado por ser amargo, infeliz, desesperado, um pouco deprimido, brusco, arrogante e ocasionalmente egoísta. insatisfeito com seu estilo de vida, ele anseia por status de celebridade, riqueza, cabelo e uma carreira glamourosa como músico, pintor ou tocador de clarinete. Entretanto, ele possui uma vida simples e trabalha como operador de caixa no restaurante de serviço rápido Krusty Krab. Squidward vive irritado por conta de seu ganancioso chefe e de seu colega de trabalho, SpongeBob. O personagem mora em um moai situado entre as residências de SpongeBob e Patrick. Ele detesta seus vizinhos por causa das risadas perpétuas e do comportamento barulhento. Embora SpongeBob e Patrick não possuam consciência da animosidade de Squidward, consideram-no um amigo."
+    }
+]
