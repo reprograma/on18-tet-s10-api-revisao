@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Lisa Simpson",
+        "idade": 8,
+        "sexo": "f",
+        "descricao": "Menina estudiosa da série."
+    },
+    {
+        "id": 2,
+        "nome": "Bart Simpson",
+        "idade": 10,
+        "sexo": "m",
+        "descricao": "Menino arteiro."
+    },
+    {
+        "id": 3,
+        "nome": "Homer Simpson",
+        "idade": 36,
+        "sexo": "m",
+        "descricao": "Chefe da família."
+    },
+    {
+        "id": 4,
+        "nome": "Marge Simpson",
+        "idade": 35,
+        "sexo": "f",
+        "descricao": "Matriarca da família."
+    },
+    {
+        "id": 5,
+        "nome": "Maggie Simpson",
+        "idade": 1,
+        "sexo": "f",
+        "descricao": "A caçula da família."
+    }
+]
