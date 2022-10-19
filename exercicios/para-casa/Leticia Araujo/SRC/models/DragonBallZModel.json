@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "nome": "Goku",
+        "idade": 43,
+        "genero": "Masculino",
+        "Altura": "175",
+        "Raça": "Saiyajin"
+    },
+    {
+        "id": 1,
+        "nome": "Gohan",
+        "idade": 23,
+        "genero": "Masculino",
+        "Altura": "176",
+        "Raça": "Híbrido"
+    },
+    {
+        "id": 2,
+        "nome": "chichi",
+        "idade": 43,
+        "genero": "Feminino",
+        "Altura": 163,
+        "Raça": "Terraqueo"
+    },
+    {
+        "id": 3,
+        "nome": "Goten",
+        "idade": 7,
+        "genero": "Masculino",
+        "Altura": 123,
+        "Raça": "Híbrido" 
+    }
+]
