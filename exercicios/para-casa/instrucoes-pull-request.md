@@ -29,3 +29,6 @@ Como?
 ```
 Feito isso, é so clicar em “Create pull request”. <br> <br>
 Tcharaaaannn! Agora é só esperar a prof revisar seu PR 💜
+
+npm install -D
+explica que é uma instalação de desenvolvimento e não de produção

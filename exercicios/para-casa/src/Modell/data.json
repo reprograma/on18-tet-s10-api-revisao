@@ -1,0 +1,21 @@
+[
+    {
+    "id":0,
+    "nome":"BoJack Horseman",
+    "descrição":"Alcoolatra, adora tomar umas nos dias de sábado",
+    "características":"Um Cavalo Festeiro"
+    },
+    {
+        "id":1,
+        "nome":"Princess Carolyn",
+        "descrição":"Viciada em trabalhar e trabalhar",
+        "características":"Uma gata da cor rosa"
+    },
+    {
+        "id":2,
+        "nome":"todd chavez",
+        "descrição":"Viajado na maionese e melhor amigo do BoJack",
+        "características":"uns dos poucos Humanos da série"
+    }
+
+]

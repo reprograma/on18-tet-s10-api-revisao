@@ -1,0 +1,18 @@
+{
+  "name": "para-casa",
+  "version": "1.0.0",
+  "description": "## Reprograma Geek Para continuar o nosso { Reprograma Geek } vamos desenvolver mais uma API para um novo dominio( animes, cartoon, desenho... - nesse contexto ). Precisamos fazer um CRUD e nossa API precisa ser RESTful ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {}
+}
