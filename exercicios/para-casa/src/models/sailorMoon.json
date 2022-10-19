@@ -1,0 +1,58 @@
+[
+    {
+        "id":0,
+        "nome":"Sailor Moon",
+        "idade":14,
+        "identidadeCivil": "Usagi Tsukino",
+        "poder":"Entre as habilidades notáveis estão manipulação da alma, controle do tempo/dimensões e até mesmo alteração da realidade em escala galactica."
+        
+    },
+    {
+        "id":1,
+        "nome":"Sailor Saturn",
+        "idade":14,
+        "identidadeCivil":"Hotaru Tomoe",
+        "poder": "No passado durante o Milênio de Prata ela era a princesa de seu planeta natal e estava entre aqueles que receberam o dever de proteger o sistema solar de invasões externas."
+
+    },
+    {
+        "id":2,
+        "nome":"Sailor Uranus",
+        "idade":17,
+        "identidadeCivil":"Haruka Tenou",
+        "poder":"Seus ataques são baseados em torno do céu, precognição, e os poderes conferidos pela sua espada."
+
+    },
+    {
+        "id":3,
+        "nome":"Sailor Mars",
+        "idade":14,
+        "identidadeCivil":"Rei Hino",
+        "poder":"Seus ataques são baseados em torno do fogo, poderes psíquicos e poderes espirituais."
+
+    },
+    {
+        "id":4,
+        "nome":"Sailor Jupiter",
+        "idade":15,
+        "identidadeCivil":"Makoto Kino",
+        "poder":"Seus ataques são baseados na Eletricidade e nas plantas, bem como a força física."
+
+    },
+    {
+        "id":5,
+        "nome":"Sailor Venus",
+        "idade":14,
+        "identidadeCivil":"Minako Aino",
+        "poder":"Usa poderes metálicos e de luz"
+
+    },
+    {
+        "id":6,
+        "nome":"Sailor Mercury",
+        "idade":15,
+        "identidadeCivil":"Ami Mizuno",
+        "poder":"Seus ataques e poderes são baseados em torno da água e do gelo, bem como a inteligência e computadores."
+
+    }
+]
