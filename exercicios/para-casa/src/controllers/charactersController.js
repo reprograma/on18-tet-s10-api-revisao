@@ -10,9 +10,8 @@ const get = async (req, res) => {
     let filtered = []
 
     for (const character of characters) {
-        const keys = Object.keys(characters)
+        const keys = Object.keys(character)
         for (const key of keys) {
-            console.log(character, key)
             const actualCharacter = character[key].toString().toLowerCase()
             const actualQuery = query[key] && query[key].toLowerCase()
             if (actualCharacter.includes(actualQuery)) {
@@ -30,6 +29,20 @@ const get = async (req, res) => {
     res.status(200).send(filtered)
 }
 
+
+const getId = async(req, res) => {
+    const characters = await db("characters")
+    const { id } = req.params
+    
+    const character = characters.find(character => character.id == id)
+    
+    if (!character) return res.status(404).send({
+        message: `Id: ${id} - Not Found`
+    })
+
+    res.status(200).send(character)
+}
+
 const post = async(req, res) => {
     const characters = await db("characters")
     
@@ -38,11 +51,15 @@ const post = async(req, res) => {
     } = req.body
 
     if (isNaN(idade) || idade <= 0) {
-        return res.status(400).send({ message: "Idade inválida"})
+        return res.status(400).send({ message: "Invalid age"})
+    }
+
+    if (!nome || !genero || !corOlho || !email) {
+        return res.status(400).send({ message: "All fields required"})
     }
 
     const newChar = {
-        id: personagens.length + 1,
+        id: characters.length + 1,
         nome, idade, genero, corOlho, email
     }
 
@@ -51,19 +68,47 @@ const post = async(req, res) => {
     res.status(201).send(newChar)
 }
 
-const getId = async(req, res) => {
+const patch = async(req, res) => {
     const characters = await db("characters")
     const { id } = req.params
+    const {
+        nome, idade, genero, corOlho, email
+    } = req.body
 
+    if (isNaN(idade) || idade <= 0) {
+        return res.status(400).send({ message: "Invalid age"})
+    }
+    
     const character = characters.find(character => character.id == id)
-
+    
     if (!character) return res.status(404).send({
         message: `Id: ${id} - Not Found`
     })
 
+    if (nome) character["nome"] = nome
+    if (idade) character["idade"] = idade
+    if (genero) character["genero"] = genero
+    if (corOlho) character["corOlho"] = corOlho
+    if (email) character["email"] = email
+    
     res.status(200).send(character)
 }
 
+const remove = async(req, res) => {
+    const characters = await db("characters")
+    const { id } = req.params
+
+    const character = characters.find(character => character.id == id)
+    
+    if (!character) return res.status(404).send({
+        message: `Id: ${id} - Not Found`
+    })
+
+    characters.splice(characters.indexOf(character), 1)
+
+    res.status(200).send(characters)
+}
+
 module.exports = {
-    get, getId, post
+    get, getId, post, patch, remove
 }
