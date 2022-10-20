@@ -1,0 +1,53 @@
+[
+    {
+        "id" : 0,
+        "nome" : "InuYasha",
+        "idade" : 70,
+        "genero" : "Masculino",
+        "bio" : " InuYasha é o filho do  Dai-Youkai Inu Taisho (grande youkai general canino), com a humana Izayoi."
+    },
+    {
+        
+    "id" : 1,
+    "nome" : "Kagome",
+    "idade" : 17,
+    "genero" : "Feminino",
+    "profissao" : "estudante",
+    "bio": "Ela é uma menina do Japão moderno, que voltou para a época Segouku-Jidai. Ela é a reencarnação de Kikyou e no início não gostou muito de InuYasha, nem ele dela"
+    },
+    {
+        
+    "id" : 2,
+    "nome" : "Sango",
+    "idade" : 17,
+    "genero" : "Feminino",
+    "profissao" : "caçadora de youkais",
+    "bio": "Sango] é uma jovem que teve seu irmão, Kohaku, seu pai e todo o clã mortos numa armadilha de Naraku.    No início, ela acredita que InuYasha havia matado todas as pessoas que estavam no vilarejo dos exterminadores"
+    },
+    {
+        
+    "id" : 3,
+    "nome" : "Miroku",
+    "idade" : 18,
+    "genero" : "Masculino",
+    "profissao" : "Monge",
+    "bio": " O monge (houshi) Miroku é um monge ladrão, oportunista, pervertido e charmoso. Apesar disso, seu avô, também monge, foi amaldiçoado com um Kazaana hereditário (buraco de vento que um dia o sugará), que só sumirá se Naraku (o causador da maldição) morrer "
+    },
+    {
+        
+    "id" : 4,
+    "nome" : "Shippou",
+    "idade" : 50,
+    "genero" : "Masculino",
+    "bio": "Durante a história, InuYasha conhece muitas pessoas. A começar pelo youkai Kitsune Shippou, uma raposa que ficou órfão por causa de [ Hiten e Manten, os irmãos relâmpago"
+    },
+    {
+        "id": 5,
+        "nome": "naruku",
+        "idade": 100,
+        "genero":"Masculino",
+        "profissao": "vilão",
+        "bio": "O vilão principal da série. Quando ainda era o bandido Onigumo, sentia ciúmes de InuYasha pelo seu relacionamento com Kikyou. Vende então sua alma para youkais com o intuito de roubar a Jóia de Quatro Almas e separar InuYasha de sua cobiçada Kikyou"
+    }
+
+]
