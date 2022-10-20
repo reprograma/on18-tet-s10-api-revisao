@@ -1,0 +1,30 @@
+
+[
+    {
+      "id" : 0,
+      "nome" : "Monkey'D Luffy",
+      "idade" : 19,
+      "genero" : "Masculino",
+      "ocupacao" : "Capitão",
+      "akumaNoMi" : "Gomu Gomu",
+      "bio" : "Monkey D. Luffy, também conhecido Chapéu de Palha, é um pirata sendo o protagonista do anime e mangá One Piece. Ele é o fundador e capitão do cada vez mais infame e poderoso Mugiwaras (Piratas do Chapéu de Palha), bem como um de seus principais lutadores. Seu sonho de vida é se tornar o Rei dos Piratas, encontrando o lendário tesouro deixado pelo falecido Rei dos Piratas, Gol D. Roger. Ele acredita que ser o Rei dos Piratas significa ter a maior liberdade do mundo." 
+    },
+    {
+        "id" : 1,
+        "nome" : "Roronoa Zoro",
+        "idade" : 21,
+        "genero" : "Masculino",
+        "ocupacao" : "Combatente",
+        "akumaNoMi" : "Não Possui",
+        "bio" : "Roronoa Zoro, também conhecido como 'Caçador de Piratas Zoro, é o combatente dos Piratas do Chapéu de Palha e um ex-caçador de recompensas. Ele foi o primeiro membro a juntar-se à tripulação. Sua fama como mestre espadachim e sua grande força, algumas pessoas acreditam que ele seja o imediato."
+    },
+    {
+      "id" : 2,
+      "nome" : "Nami",
+      "idade" : 20,
+      "genero" : "Feminino",
+      "ocupacao" : "Navegadora",
+      "akumaNoMi" : "Não Possui",
+      "bio" : "A 'Gata Ladra' Nami é a navegadora dos Piratas do Chapéu de Palha. Ela foi o terceiro membro da tripulação e a segunda a entrar, fazendo-o durante o Arco Orange Town.Ela é a irmã adotiva de Nojiko, desde que as duas ficaram órfãs e foram levadas por Bell-mère "
+    }
+  ]
