@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nome": "Shigeo kageyama",
+        "genero": "Masculino",
+        "profissao": "Estudante"
+    },
+    {
+        "id": 1,
+        "nome": "Arataka Reigen",
+        "genero": "Masculino",
+        "profissao": "Scammer"
+    },
+    {
+        "id": 2,
+        "nome": "Ekubo",
+        "genero": "Masculino",
+        "profissao": "Deus"
+    }
+]
