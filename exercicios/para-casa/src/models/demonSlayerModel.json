@@ -1,0 +1,35 @@
+[{
+        "id": 0,
+        "name": "Nezuko Kamado",
+        "gender": "female",
+        "occupation": "Demon Slayer",
+        "age ": 14,
+        "bio": "Nezuko's original personality as a human was that of a kind and caring girl who thought of others before herself much like her older brother, Tanjiro. Additionally, she was a responsible elder sister to her younger siblings and often put their needs first rather than her own. Nezuko is, however, not afraid to get in harm's way, protecting her friends from demons even after being returned to a human state. It is also shown that Nezuko's humane, laid-back demeanor supports this fact after Tanjiro apologized to her. While Nezuko initially starts off like any other demon, bloodthirsty and hungry for human flesh, after seeing the desire of hers brother to protect her from being killed by a Demon Slayer despite her being a demon, she changes completely and becomes fiercely protective of him. Unlike most demons who fully remember their human life."
+    },
+    {
+        "id": 1,
+        "name": "Tanjiro Kamado",
+        "gender": "male",
+        "occupation": "Demon Slayer",
+        "age ": 15,
+        "bio": "Tanjiro is very kind by nature and has been described by others as having very gentle eyes and a compassionate persona. He exhibits a great deal of determination and will not give up once he has a goal to achieve; the best example of this being his relentless quest to find a cure for Nezuko. Even though he is relatively strong on his own, he is very protective of his friends and even more so of his younger sister. However, despite his kind and understanding nature, Tanjiro does have a limit to his tolerance and has a distaste for rudeness and cowardice.Tanjiro is direct and very honest, taking everyone's words with sincerity and seriousness. Upon hearing Tengen Uzui claim he is a god, he asked what area is he the god of. He has difficulty lying and doing so causes his face to contort severely, as his honest nature clashes with the insincerity of his words."
+    },
+
+    {
+        "id": 2,
+        "name": "Zenitsu Agatsuma",
+        "gender": "male",
+        "occupation": "Demon Slayer",
+        "age ": 16,
+        "bio": "Zenitsu comes off as a coward, as he often claims that he doesn't have long to live due to the dangerous job of being a Demon Slayer. He also has rather low self-esteem despite his strength, even considering himself useless as seen when he couldn't believe he had slain a demon and tricked himself into instead believing that it was Shoichi, even though the latter was a young child who didn't possess any form of special demon-slaying ability. Zenitsu is in a constant state of fear and always cries and tries to run away at the sight of danger, claiming he wants to live a modest, normal life, instead of that of a Demon Slayer. Due to this, Zenitsu screams and shouts a lot, sometimes annoying the people around him. He is also shown to be pessimistic at times. However, despite these weaknesses, Zenitsu still wants to live up to the expectations others set up for him and will try his hardest when he needs to. He holds great respect and admiration towards his comrades and his deceased teacher, Jigoro Kuwajima, and his inner focus and drive in avenging him help to wash away his cowardice and second thoughts when he is in a pinch."
+    },
+
+    {
+        "id": 3,
+        "name": "Inosuke Hashibira",
+        "gender": "male",
+        "occupation": "Demon Slayer",
+        "age ": 15,
+        "bio": "Inosuke is an extremely short-tempered and proud young man who always likes to think he is the strongest fighter in a situation, constantly challenging most people he comes across and wanting others to respect and praise him for his skill. This often leads him into unnecessary danger, since he tends to overestimate his abilities in comparison to who he's fighting and refuses to accept when he's been defeated, which can be seen when Giyu Tomioka has to tie him up after his fight with the Father Spider Demon to prevent him challenging the Hashira to a fight while still severely injured from his previous battle.[6] This constant wanting to be the best can also cause Inosuke to be very provocative, as he often tries to goad others, most prominently Tanjiro Kamado, into fighting him, although in the case of the latter he usually fails due to Tanjiro's obliviously kind nature."
+    }
+]
