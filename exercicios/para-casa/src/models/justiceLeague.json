@@ -1,0 +1,23 @@
+[
+    {
+      "id" : 0,
+      "nome" : "Superman",
+      "fraqueza" : "kryptonita",
+      "poder" : "superforça", 
+      "bio" : " Lider da Liga da Justiça, filho de Jor-El e de Lara, Kal-El é o último sobrevivente do planeta Krypton. Foi criado por Jonathan Kent e Martha Kent com o nome de Clark Kent. Mais tarde saiu de Smallville (Pequenópolis) e foi para Metropolis, onde criou a imagem de um frágil repórter para esconder de todos sua real identidade de Superman"
+    },
+    {
+      "id" : 1,
+      "nome" : "Mulher-Maravilha ",
+      "fraqueza" : "Somente o Hefesto sabe",
+      "poder" : "capacidade de voar",
+      "bio" : " Princesa de Themyscira, filha de Hipólita a Rainha das Amazonas. Veio ao Mundo dos Homens para ajudá-los a debelar a invasão alienígena e acabou por se unir a Liga da Justiça mesmo contra a vontade de sua mãe. Sendo então a última a se integrar à Liga da Justiça, antes composto por: Superman, Batman, Mulher-Gavião, Flash e Lanterna Verde. "
+    },
+    {
+    "id" : 2,
+    "nome" : "Batman",
+      "fraqueza" : "A claridade",
+      "poder" : "Possui várias armas, veículo",
+      "bio" : "empresário de dia e super-herói à noite, é um ótimo detetive e dono de uma das maiores inteligências do mundo, além de ser um ótimo atleta. Foi treinado em todas as formas de combate físico e também é mestre em fugas e disfarces, filho de Martha Wayne e Thomas Wayne, que foram mortos em um assalto após seu pai haver reagido. Batman está sempre um passo à frente de todos, seja companheiros super-heróis ou vilões e raramente é surpreendido em emboscadas. "
+    }
+  ]
