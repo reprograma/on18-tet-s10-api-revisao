@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nome": "Hilda Mcdowell",
+        "idade": 33,
+        "genero": "female",
+        "corOlho": "brown",
+        "email": "hildamcdowell@matrixity.com"
+    },
+    {
+        "id": 2,
+        "nome": "Ruiz Henderson",
+        "idade": 26,
+        "genero": "male",
+        "corOlho": "green",
+        "email": "ruizhenderson@matrixity.com"
+    },
+    {
+        "id": 3,
+        "nome": "Tessa Jacobs",
+        "idade": 39,
+        "genero": "female",
+        "corOlho": "brown",
+        "email": "tessajacobs@matrixity.com"
+    },
+    {
+        "id": 4,
+        "nome": "Blanchard Chen",
+        "idade": 26,
+        "genero": "male",
+        "corOlho": "brown",
+        "email": "blanchardchen@matrixity.com"
+    },
+    {
+        "id": 5,
+        "nome": "Boyle Woodward",
+        "idade": 33,
+        "genero": "male",
+        "corOlho": "green",
+        "email": "boylewoodward@matrixity.com"
+    }
+]

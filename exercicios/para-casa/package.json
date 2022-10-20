@@ -1,0 +1,19 @@
+{
+  "name": "para-casa",
+  "version": "1.0.0",
+  "description": "Para continuar o nosso { Reprograma Geek } vamos desenvolver mais uma API para um novo dominio( animes, cartoon, desenho... - nesse contexto ). Precisamos fazer um CRUD e nossa API precisa ser RESTful\r ---",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
