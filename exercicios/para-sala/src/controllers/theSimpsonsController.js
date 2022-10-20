@@ -93,8 +93,71 @@ const obterPersonagemPorId = async(request, response) =>{
   response.status(200).send(personagemEncontrado)
 }
 
+const atualizarPersonagem = async(request, response) => {
+    // encontra-lo no banco pelo id
+    // substituir pelo req.body
+    const { id } = request.params
+    const personagens = await db("the-simpsons")
+    const personagem = personagens.find(personagem => personagem.id == id)
+
+    if (!personagem) {
+      return response.status(404).send({ 
+        message: `Personagem com o ${id} não encontrado!`
+      })
+    }
+
+    const { nome, idade, bio, genero, profissao } = request.body
+    // nome nao pode ser vazio, nome nao pode ser igual a já existente, idade precisa ser numero
+
+    if (typeof nome != "string" || nome.trim() == "") return response.status(400).send({ 
+      message: "O nome não pode ser vazio"
+    })
+
+    if (typeof idade != "number" || idade < 0) {
+      return response.status(400).send("A idade precisa ser um numero")
+    }
+    
+    if (nome) personagem.nome = nome
+    if (idade) personagem.idade = idade
+    if (bio) personagem.bio = bio
+    if (genero) personagem.genero = genero
+    if (profissao) personagem.profissao = profissao
+
+    response.status(200).send(personagem)
+}
+
+const deletarPersonagem = async(request, response) => {
+   // splice -> apagar atraves do indice
+   // id -> para localizar o personagem
+   // indexOf -> para localizar o que vai ser apagado
+   const personagens = await db("the-simpsons")
+   const { id } = request.params
+
+   // find -> ele encontra um elementro(personagen) no array e retorna
+   // some -> ele econtra um personagem e retorna true | false 
+   // findIndex -> ele encontra um indice no array de objetos(personagens)
+
+   const personagenIndice =  personagens
+   .findIndex(personagem => personagem.id == id)
+
+   console.log(personagenIndice)
+   
+   if (personagenIndice === -1) {
+     return response.status(404).send(
+      { message: `Personagem não existe para o ${id}`}
+      )
+   }
+   personagens.splice(personagenIndice, 1)
+
+   response.status(200).send({
+    message: "Personagem deletado com sucesso!"
+   })
+}
+
 module.exports = {
   obterPersonagemPorId,
   obterPersonagens,
-  cadastrarPersonagem
+  cadastrarPersonagem,
+  atualizarPersonagem,
+  deletarPersonagem
 }

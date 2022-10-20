@@ -11,6 +11,9 @@ const router = express.Router()
  * e como segundo parametro, a controller
  */
 router.get("/the-simpsons/personagens", controller.obterPersonagens)
+router.get("/the-simpsons/personagens/:id", controller.obterPersonagemPorId)
 router.post("/the-simpsons/personagens", controller.cadastrarPersonagem)
+router.patch("/the-simpsons/personagens/:id", controller.atualizarPersonagem)
+router.delete("/the-simpsons/personagens/:id", controller.deletarPersonagem)
 
 module.exports = router
