@@ -1,0 +1,46 @@
+[
+    {
+      "id" : 0,
+      "nome" : "Chaves",
+      "ator" : "Roberto Gomez Bolaños",
+      "idade" : 8,
+      "genero" : "Masculino",
+      "moradia" : "casa nº 8",
+      "bordoes": " 'Isso, isso, isso', 'Foi sem querer querendo', 'Tá bom, mas não se irrite', 'Ninguém tem paciência comigo', 'É que me escapuliu', 'Zás, zás, zás...', 'Tudo eu, tudo eu', 'Ah, que burro, dá zero pra ele'",
+
+
+      "bio" : " Chaves é um garoto esfomeado, órfão e que vive escondido em seu barril. O pobre menino chegou à vila ainda pequeno, e logo foi aceito por todos, mesmo sendo atrapalhado, burro e um pouco tonto. Sempre faz piadas com o Seu Madruga ou com sua vovózinha, e sempre leva um cascudo na cabeça do velho Madruga. Chaves faz qualquer coisa por um sanduíche de presunto, sua comida preferida. Adora brincar de qualquer coisa, principalmente de futebol. Diz que mora na casa nº 8, mas ninguém nunca viu esta tal casa. Até hoje seu nome verdadeiro não foi revelado."
+
+    
+    },
+    {
+      "id" : 1,
+      "nome" : "Quico",
+      "ator" : "Carlos Villagrán",
+      "idade" : 9,
+      "genero" : "Masculino",
+      "moradia" : "casa nº 14",
+      "bordoes": " 'Você não vai com a minha cara', 'Gentalha,gentalha', 'Cale-se,Cale-se,Cale-se, que você me deixa louco', 'Você quer?Então compra!', 'O que será que ele quis dizer', 'Da paret de quem?', 'Por isso eu digo sim' ",
+
+
+      "bio" : " Filho da Dona Florinda, Quico tem um Q.I. bem baixo, mas seus dotes financeiros são os mais altos da vila. Quico tem um monte de brinquedos, o seu preferido é a enorme bola daquelas típicas de parque de diversões, com a qual ele joga basquete, futebol e qualquer outra coisa. É comum vê-lo saindo de sua casa com uma versão avançada de um brinquedo que o Chaves esteja usando - por exemplo, quando Chaves brinca todo contente com sua bola de tênis toda suja e maltratada, surge Quico trazendo nas mãos uma enorme bola colorida. Seu terninho de marinheiro é sempre limpo e bem asseado, e por isso ele não gosta de brincadeira que exijam muita movimentação, para que não suje sua roupinha. Seu terninho é uma homenagem ao pai, comandante da Marinha morto ao ser devorado por um tubarão em alto mar. Sempre que o professor vem visitar Dona Florinda, Quico espera que ele traga a tão esperada bola quadrada. Suas grande bochechas são alvo de piadas de todos, em especial de Chaves e Chiquinha. Quico é sempre protegido pela sua mãe, que bate no Seu Madruga quando ele dá no Quico seus famosos beliscões."
+      
+    },
+
+    {
+        "id" : 2,
+        "nome" : "Chiquinha",
+        "ator" : "Maria Antonieta de las Nieves",
+        "idade" : 7,
+        "genero" : "Feminino",
+        "moradia" : "casa nº 72",
+        "bordoes": "'Pois é, pois é, pois é', 'o que você tem de burro,você tem de burro' ",
+  
+  
+        "bio" : " Baixinha, cheia de sardas, esperta e muito astuciosa, porém, sem muita inteligência pra escola. Mas a sua lábia e seu jeitinho ganham todo mundo. Filha do Seu Madruga, Chiquinha é uma garota muito mimada, bagunceira e sem limites. Apaixonada secretamente pelo Chaves, Chiquinha morre de ciúmes da Paty e faz de tudo para provocar a menina. E como toda filha única, também morre de ciúmes do pai, e luta para afastar qualquer mulher que se aproxime dele. Chiquinha é uma feminista convicta, e adora pregar peças e se dar bem às custas dos tontos do Chaves e do Quico, que sempre caem nas armações da garota.'"
+
+        
+        
+      }
+
+  ]
