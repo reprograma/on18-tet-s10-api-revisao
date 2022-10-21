@@ -1,0 +1,31 @@
+[
+    {
+      "id" : 0,
+      "nome" : "Goku",
+      "especie" : "Saiyajin",
+      "profissao" : "Lutador de Artes Marciais e Agricultor",
+      "planeta" : "Planeta Vegeta."
+    },
+    {
+      "id" : 1,
+      "nome" : "Vegeta",
+      "especie" : "Saiyajin",
+      "profissao" : "Lutador de Artes Marciais",
+      "planeta" : "Planeta Vegeta."
+    },
+    {
+        "id" : 2,
+        "nome" : "Piccolo",
+        "especie" : "Namekuseijin",
+        "profissao" : "Lutador de Artes Marciais",
+        "planeta" : "Namekusei ."
+      }
+      ,
+      {
+          "id" : 3,
+          "nome" : "Kuririn",
+          "especie" : "Humano",
+          "profissao" : "Policial, Lutador de Artes Marciais",
+          "planeta" : "Terra."
+        }
+  ]
