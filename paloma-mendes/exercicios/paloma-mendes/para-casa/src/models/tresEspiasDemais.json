@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "nome": "Clover",
+        "idade": 18,
+        "profissao": "espia",
+        "corDosOlhos": "Azul",
+        "corDeCabelo": "Loiro",
+        "comidaFavorita": "Muffin de semente de papoula"
+    },
+    {
+        "id": 1,
+        "nome": "Sam",
+        "idade": 17,
+        "profissao": "espia",
+        "corDosOlhos": "Verde",
+        "corDeCabelo": "Ruivo",
+        "comidaFavorita": "Cozinha Chinesa"
+    },
+    {
+        "id": 2,
+        "nome": "Alex",
+        "idade": 17,
+        "profissao": "espia",
+        "corDosOlhos": "Marrom",
+        "corDeCabelo": "Preto",
+        "comidaFavorita": "Lulas Cremosas"
+    },
+    {
+        "id": 3,
+        "nome": "Jerry",
+        "idade": 50,
+        "profissao": "espia",
+        "corDosOlhos": "Preto",
+        "corDeCabelo": "Grisalho",
+        "comidaFavorita": "Peixes"
+    }
+]
