@@ -35,8 +35,21 @@ const getCharacters = async (request, response) => {
     
 }
 
+const getCharacterById = async(requet, response) => {
+    const { id } = requet.params;
+    const characters = await db("mha");
+    const characterFound = characters.find(character => character.id == id);
+
+    if(!characterFound) return response.status(404).send({
+        message: `not found any character whith that id ${id}`
+    })
+
+    response.status(200).send(characterFound);
+
+}
 
 
 module.exports = {
-    getCharacters
+    getCharacters,
+    getCharacterById
   }
