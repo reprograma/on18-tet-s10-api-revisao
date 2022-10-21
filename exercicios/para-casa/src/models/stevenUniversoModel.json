@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 0,
+        "nome": "Steven Quartzo",
+        "idade": 13,
+        "especie": "Humano",
+        "gem": "Diamante",
+        "bio": "'Steven Quartzo Universo' é o personagem principal da série. Steven é o filho de Rose Quartz (Diamante Rosa), a ex-líder das Crystal Gems, e passa a viver com elas. Ao mesmo tempo que convive com sua vida humana em Beach City, também convive com o mundo Gem, indo atrás de artefatos Gems, derrotando Gems Corrompidas e descobrindo sobre o passado das Gems do Planeta Natal, que tentaram colonizar a Terra."
+    },
+    {
+        "id" : 1,
+        "nome": "Garnet",
+        "idade": 5750,
+        "especie": "Fusão de Gem",
+        "gem": "Cristal",
+        "bio": "Garnet é uma das protagonistas de Steven Universo. Ela é a fusão de Rubi e Safira e a líder das Crystal Gems. Se juntou às Crystal Gems porque elas aceitavam o fato dela ser uma fusão. Lutou na rebelião e se tornou uma das defensoras da Terra. Após a 'morte' de Rose Quartz, Garnet começou a liderar as Crystal Gems."
+    },
+    {
+        "id" : 2,
+        "nome": "Pérola",
+        "idade": 9000,
+        "especie": "Gem",
+        "gem": "Pérola",
+        "bio": "Pérola é uma jóia do tipo pérola de cristal das gemas , em Steven Universo e uma das protagonistas da série. Foi uma primeira jóia de Rose Quartz na Rebelião , tendo um grande amor por ela. Atualmente, é uma das mentoras do seu filho, Steven. O seu visual atual apareceu pela primeira vez em 'Mudar de Ideia' e em episódios atrás Pérola tinha sido poofada pela Diamante Amarelo. Anos depois, Pérola e as Crystal Gems principais são atacadas pela Espinela, a Pérola e as outras acabam perdendo a memória e Steven consegue recuperar as memórias delas."
+    },
+    {
+        "id" : 3,
+        "nome": "Ametista",
+        "idade": 4000,
+        "especie": "Gem",
+        "gem": "Quartzo",
+        "bio": "Ametista (mas especificamente Ametista Faceta-5 Corte-8XM), é um dos membros das Crystal Gems e uma das protagonistas da série. Ela foi a última Gem conhecida a ser fabricada na Terra como parte do projeto do Jardim de Infância. Após a Rebelião, Ametista se tornou uma Crystal Gem e passou a ajudar seus companheiros a proteger a Terra"
+    }
+]
