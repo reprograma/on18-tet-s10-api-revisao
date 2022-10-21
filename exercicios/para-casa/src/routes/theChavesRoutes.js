@@ -13,5 +13,7 @@ const router = express.Router()
 router.get("/the-chaves/personagens", controller.obterPersonagens)
 router.post("/the-chaves/personagens", controller.cadastrarPersonagem)
 router.get("/the-chaves/personagens/:id", controller.obterPersonagemPorId)
+router.patch("/the-chaves/personagens/:id", controller.atualizarPersonagem)
+router.delete("/the-chaves/personagens/:id", controller.deletarPersonagemPorId)
 
 module.exports = router
