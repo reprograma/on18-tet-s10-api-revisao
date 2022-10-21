@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "nome": "Scooby-doo",
+        "idade": 7,
+        "corDosOlhos": "Castanhos",
+        "corDeCabelo": "Marron",
+        "comidaFavorita": "Biscoitos scooby"
+    },
+    {
+        "id": 1,
+        "nome": "Velma",
+        "idade": 16,
+        "corDosOlhos": "Castanhos",
+        "corDeCabelo": "Castanhos",
+        "comidaFavorita": "Macarrão"
+    },
+    {
+        "id": 2,
+        "nome": "salsicha",
+        "idade": 16,
+        "corDosOlhos": "Marrom",
+        "corDeCabelo": "Castanhos",
+        "comidaFavorita": "Cachorro quente"
+    },
+    {
+        "id": 3,
+        "nome": "Fred Jones",
+        "idade": 16,
+        "corDosOlhos": "Castanhos",
+        "corDeCabelo": "Loiro",
+        "comidaFavorita": "Frango com batata doce"
+    }
+    {
+        "id": 4,
+        "nome": "Daphne Blake",
+        "idade": 16,
+        "corDosOlhos": "Castanhos",
+        "corDeCabelo": "Ruivo",
+        "comidaFavorita": "Risoto de queijo gorgonzola"
+    }
+]
