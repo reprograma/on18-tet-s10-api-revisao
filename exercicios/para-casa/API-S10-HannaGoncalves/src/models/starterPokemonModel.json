@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "name":"Chikorita",
+        "type":"Grass",
+        "ability":"Overgrow",
+        "hiddenAbility":"Leaf Guard"
+    },
+    {
+        "id":1,
+        "name":"Cyndaquil",
+        "type":"Fire",
+        "ability":"Blaze",
+        "hiddenAbility":"Flash Fire"
+    },
+    {
+        "id":2,
+        "name":"Totodile",
+        "type":"Water",
+        "ability":"Torrent",
+        "hiddenAbility":"Sheer Force"
+    }
+]
