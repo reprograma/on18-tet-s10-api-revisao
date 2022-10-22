@@ -89,18 +89,18 @@ O grande objetivo desse modelo é fazer com que os recursos estejam disponíveis
 
 ```
 📂 API     
-├─ 📂 src                       
-│  ├─ 📂 controllers            
-│  │  └─ produtoController.js          
-│  ├─ 📂 models                 
-│  │  └─ produtoModel.js      
-│  ├─ 📂 routes                 
-│  │  └─ produtoRouter.js            
-│  └─ app.js                 
-├─ package-lock.json         
-├─ package.json  
+├─ 📂 src 
+│  ├─ 📂 controllers
+│  │  └─ produtoController.js
+│  ├─ 📂 models
+│  │  └─ produtoModel.js
+│  ├─ 📂 routes
+│  │  └─ produtoRouter.js
+│  └─ app.js
+├─ package-lock.json
+├─ package.json
 ├─ .gitignore 
-├─ README.md             
+├─ README.md
 └─ server.js
 ```
 
@@ -132,6 +132,7 @@ O grande objetivo desse modelo é fazer com que os recursos estejam disponíveis
 - [Api Rest Boas Praticas Endpoint](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
 - [ CQRS ](https://pt.stackoverflow.com/questions/181688/o-que-%C3%A9-cqrs-e-como-implementar)
 - [ CRUD ](https://blog.betrybe.com/tecnologia/crud-operacoes-basicas/)
+- [ JavaScript: Destructuring ](https://www.devmedia.com.br/javascript-destructuring-assignment/41201)
 
 ## **Obrigada meninas, Bea**
 
