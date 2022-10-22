@@ -48,8 +48,77 @@ const getCharacterById = async(requet, response) => {
 
 }
 
+const insertCharacter = async(requet, response) => {
+    const characters = await db("mha");
+    const {
+        nome, codenome, idade, genero, individualidade, descricao
+    } = requet.body;
+
+    if(!nome || nome.trim() === ""){
+        return response.status(400).send({ message: `You need to insert a name!` });
+    }
+    if(!codenome || codenome.trim() === ""){
+        return response.status(400).send({ message: `You need to insert a codename!` });
+    }
+    if(!individualidade || individualidade.trim() === ""){
+        return response.status(400).send({ message: `You need to insert a quirq!` });
+    }
+
+    const existingName = character.some(character => character.nome === nome)
+
+    if(existingName === true){
+        return response.status(409).send({ message: `The name ${nome} already exist!`});
+    }
+
+    const newCharacter = {
+        id: characters.length,
+        nome, codenome, idade, genero, individualidade, descricao
+    }
+
+    characters.push(newCharacter);
+
+    response.status(201).send(newCharacter);
+}
+
+const updateCharacter = async(request, response) => {
+    const { id } = request.params;
+    const characters = await db("mha");
+    const character = characters.find(character => character.id == id);
+
+    if(!character){
+        return response.status(404).send({
+            message: `Character with id ${id} not found!`
+        })
+    }
+
+    const { nome, codenome, idade, genero, individualidade, descricao} = response.body;
+
+    if(typeof nome != "string" || nome.trim() == "") return response.status(400).send({
+        message: "insert a valid name!"
+    })
+
+    if(typeof codenome != "string" || codenome.trim() == "") return response.status(400).send({
+        message: "insert a valid codename!"
+    })
+
+    if(typeof individualidade != "string" || individualidade.trim() == "") return response.status(400).send({
+        message: "insert a valid quirq!"
+    })
+
+    if(nome) character.nome = nome;
+    if(codenome) character.codenome = codenome;
+    if(idade) character.idade = idade;
+    if(genero) character.genero = genero;
+    if(individualidade) character.individualidade = individualidade;
+    if(descricao) character.descricao = descricao;
+
+    response.status(204).send(character);
+}
+
 
 module.exports = {
     getCharacters,
-    getCharacterById
+    getCharacterById,
+    insertCharacter,
+    updateCharacter
   }
