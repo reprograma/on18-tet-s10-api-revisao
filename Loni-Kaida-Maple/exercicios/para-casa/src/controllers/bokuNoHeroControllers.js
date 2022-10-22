@@ -115,10 +115,29 @@ const updateCharacter = async(request, response) => {
     response.status(204).send(character);
 }
 
+const deleteCharacter = async(request, response) => {
+    const characters = await db("mha");
+    const { id } = request.params;
+    const characterIndex = characters.findIndex(character => character.id == id);
+
+    console.log(characterIndex);
+
+    if(characterIndex === -1){
+        return response.status(404).send({
+            message: `Invalid Id ${id}`
+        })
+    }
+    characters.splice(characterIndex, 1);
+
+    response.status(204).send({
+        message: "Character successful deleted!"
+    })
+}
 
 module.exports = {
     getCharacters,
     getCharacterById,
     insertCharacter,
-    updateCharacter
+    updateCharacter,
+    deleteCharacter
   }
