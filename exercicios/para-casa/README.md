@@ -4,7 +4,9 @@
 Para continuar o nosso { Reprograma Geek } vamos desenvolver mais uma API para um novo dominio( animes, cartoon, desenho... - nesse contexto ). Precisamos fazer um CRUD e nossa API precisa ser RESTful
 ---
 
+
 ## Regras de negocio
+construi uma API do zero de anime
 
 ### status code
 

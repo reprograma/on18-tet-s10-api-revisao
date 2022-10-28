@@ -1,0 +1,26 @@
+[
+    {
+      "id" : 0,
+      "nome" : "Light Yagami",
+      "idade" : 23,
+      "genero" : "Masculino",
+      "profissao" : "Estudante",
+      "bio" : "Light Yagami é um jovem e brilhante estudante japonês nascido em 28 de fevereiro de 1986 (1989 no anime), muito inteligente e com extremo poder dedutivo, mas ao mesmo tempo entediado e também frustrado com a injustiça e o tipo de rumo que a sociedade está tomando."
+    },
+    {
+      "id" : 1,
+      "nome" : "Misa Amane",
+      "idade" : 19,
+      "genero" : "Feminino",
+      "profissao" : "Estudante",
+      "bio" : "Misa Amane é uma modelo famosa, cantora e atriz que está apaixonada por Light Yagami. Ela geralmente se refere a si mesma na terceira pessoa, chamando-se 'Misa-Misa' e é muito hiperativa."
+    },
+    {
+      "id" : 1,
+      "nome" : "Ryuk",
+      "idade" : "não definida",
+      "genero" : "Masculino",
+      "profissao" : "Shinigami",
+      "bio" : "Ryuk é um shinigami ('deus da morte', em japonês). Dono do 'livro da morte' que foi encontrado por Light"
+    }
+  ]
