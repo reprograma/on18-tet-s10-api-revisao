@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "nome": "Shrek",
+        "personagem": "Ogro Verde do Pantano",
+        "dublagem": "Mike Myers (original), Michael Gough (original, canto), Mauro Ramos (Brasil), Bussunda (Brasil, 2001-2004), José Jorge Duarte (Portugal).",
+        "bio": "O ogro verde protagonista da série. Seu visual é baseado no lutador francês Maurice Tillet e sua personalidade possui bem mais traços humanos que o Shrek original de William Steig, realçados ainda mais ao longo da série. Natural de um pântano, tem hábitos peculiares de um ogro, como tomar banho de lama e comer insetos, ratos e olhos. No começo da história, ele mora sozinho em sua casa no pântano e espanta todos que ousam se aproximar do local, mas quando a situação o obriga a resgatar a princesa Fiona para cumprir um acordo com Lord Farquaad, ele e a princesa acabam percebendo que têm muito em comum e se apaixonam, o que também desenvolve o lado social de Shrek, levando-o a criar fortes laços de amizade com Burro, o burro falante que decide acompanhá-lo em sua jornada, e mais tarde com outros personagens de contos de fada que conhece. No final da série, ele tem uma família com Fiona, é um grande amigo de Burro, Gato de Botas e os outros personagens com quem convive, além de ter se tornado muito popular."
+    },
+    {
+        "id": 1,
+        "nome": "Fiona",
+        "personagem": "Princesa",
+        "dublagem": "Cameron Diaz (original), Renee Sands (original, canto), Sally Dworsky (original, canto, 2001), Fernanda Crispim (Brasil), Cláudia Cadima (Portugal).",
+        "bio": "Uma princesa que, no começo da história, vive trancada numa torre em um castelo abandonado guardado por um dragão. Ela foi presa lá por seus pais, o rei e a rainha, por causa de uma maldição lançada por uma bruxa que a transformava em uma ogra durante a noite. Shrek, junto a Burro, é o primeiro a conseguir resgatá-la sem ser morto pelo dragão. Ele acaba se apaixonando por ela e, no final do primeiro filme, os dois se casam e dão o primeiro beijo do amor verdadeiro, que a liberta de sua maldição e a faz tomar sua forma real (a de uma ogra) permanentemente. Desde pequena, ela aprendeu a lutar e se defender e compartilha muitos hábitos e gostos em comum com Shrek, como o apreço por comida de ogro."
+    },
+    {
+        "id": 2,
+        "nome": "Burro",
+        "personagem": "Asno",
+        "dublagem": "Eddie Murphy (original), Mário Jorge Andrade (Brasil), Rui Paulo (Portugal).",
+        "bio": "Um burro falante que decide acompanhar Shrek na sua jornada para resgatar Fiona. Apesar da tendência inicialmente antipática de Shrek, eles acabam se tornando grandes e inseparáveis amigos. Ele fala excessivamente e tem hábitos petulantes, o que muitas vezes irrita Shrek. Em algumas situações, também se mostra medroso."
+    }
+]
