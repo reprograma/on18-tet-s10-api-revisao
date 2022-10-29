@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "nome": "Docinho",
+        "roupa": "Verde",
+        "cabelo": "Preto",
+        "caracteristicas": "Cabelos curtos, olhos verdes da cor do vestido. Agressiva, tem bom senso, forte, porém esconde seu lado sensível. A “lutadora” do trio. (…) Só quer saber de ser a mais forte do mundo, e a pior coisa para ela é ter que usar vestido. Docinho gosta de bater primeiro e perguntar depois."
+    },
+    {
+        "id": 1,
+        "nome": "Florzinha",
+        "roupa": "Rosa",
+        "cabelo": "Ruivo",
+        "caracteristicas": "Confiante, orgulhosa, batalhadora e egoísta. (…) Florzinha é a líder das Meninas Superpoderosas com uma perfeita combinção de inteligência, beleza e força! O trabalho dela é fazer com que as meninas estejam sempre preparadas para lutar contra o mal, e manter a verdade e a justiça em Townsville."
+    },
+    {
+        "id": 2,
+        "nome": "Lindinha",
+        "roupa": "Azul",
+        "cabelo": "Loira",
+        "caracteristicas": "Usa duas maria-chiquinhas. Tem olhos azuis da mesma cor de seu vestido. Doce, sensível, corajosa (mas tem medo do escuro), inocente, observadora. A mais calminha do trio. (…) Mas tome muito cuidado, esse anjinho de cabelos dourados pode ser bem perigoso!"
+    }
+]
