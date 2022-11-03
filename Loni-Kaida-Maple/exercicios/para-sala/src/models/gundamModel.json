@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "nome": "XGF-02 Gundam Lfrith",
+        "idade": 15,
+        "genero": "Gundam",
+        "profissao": "Gundam",
+        "bio": "suit introduced in Mobile Suit Gundam - the Witch from Mercury PROLOGUE. It was piloted by Elnora Samaya during the Attack on Fólkvangr"
+    },
+    {
+        "id": 1,
+        "nome": "Suletta Mercury",
+        "idade": 17,
+        "genero": "Female",
+        "profissao": "Student",
+        "bio": "She is a second-year student at the Asticassia School of Technology's piloting department, who transferred to the school from Mercury. She is the pilot of the Gundam Aerial developed on Mercury"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0",
+        "nome": "Kurose Anan",
+        "codenome": "Space Hero: Thirteen",
+        "idade": "29",
+        "genero": "Mulher",
+        "individualidade": "Black Hole",
+        "descricao": "is a Pro Hero who specializes in search and rescue, and a faculty member of U.A. High School."
+    },
+    {
+        "id": "1",
+        "nome": "Toshinori Yagi",
+        "codenome": "All Might",
+        "idade": "??",
+        "genero": "Homen",
+        "individualidade": "One For All",
+        "descricao": "is the former No. 1 Pro Hero who bore the title of the world's Symbol of Peace"
+    },
+    {
+        "id": "2",
+        "nome": "Rumi Usagiyama",
+        "codenome": "Rabbit Hero: Miruko",
+        "idade": "27",
+        "genero": "Mulher",
+        "individualidade": "Rabbit",
+        "descricao": "is the No. 5 Pro Hero."
+    },
+    {
+        "id": "3",
+        "nome": "Yawara Chatora",
+        "codenome": "Tiger",
+        "idade": "32",
+        "genero": "Homen Trans",
+        "individualidade": "Pliabody",
+        "descricao": "is a Pro Hero and member of the Wild, Wild Pussycats."
+    },
+    {
+        "id": "4",
+        "nome": "Kenji Hikiishi",
+        "codenome": "Magne",
+        "idade": "29",
+        "genero": "Mulher Trans",
+        "individualidade": "Magnetism",
+        "descricao": "was a villain affiliated with the League of Villains and part of its Vanguard Action Squad."
+    }
+]
