@@ -1,0 +1,31 @@
+
+[ 
+    {
+        "id": 1,
+        "nome": "Edward Elric",
+        "idade": 15,
+        "bio": "Edward exibe um tipo de personalidade imatura. Ele é decididamente teimoso e de temperamento forte, muitas vezes deixando a sua mesquinhez e vingança obter o melhor dele (é esta teimosia que contribui para a decisão do Führer Bradley de codinome dele Fullmetal, como Hagane (que significa literalmente aço). É um termo em japonês que designa alguém de disposição obstinada.), ele é um pouco egoísta e notavelmente auto-absorvido, geralmente agindo mais por interesse próprio do que qualquer tipo de filantropia. Ele é amplamente hostil para figuras de autoridade e se sente pouco incentivado para seguir as ordens com as quais ele discorda. Edward também é bastante irascível, recorrendo muitas vezes do seu punho de aço do que negociação calma para resolver disputas (mesmo indo tão longe a ponto de sugerir que abster-se de bater Paninya por causa de seu gênero que é uma noção machista e, portanto, contra seus princípios). Ele tem uma reputação de ser boca suja e é incuravelmente sarcástico, cínico, sendo muito franco e duramente abre os olhos dos outros de suas ilusões confortáveis a respeito de Deus, a realidade, ou a sua própria auto-importância. Edward também tem apresentado uma propensão para a impaciência e uma incapacidade de sentar-se ainda por muito tempo"
+    },
+    {
+        "id": 2,
+        "nome": "Alphonse Elric",
+        "idade": 15,
+        "bio": "De muitas maneiras, a disposição calma e passiva de Alphonse existe como um contraste para a personalidade mais abrasiva de seu irmão mais velho. Alphonse é paciente quase que até ao extremo, agindo freqüentemente com altruísmo protetor para seus entes queridos, novos amigos e às vezes até com seus inimigos (Scar é um exemplo particular), emotivo, ingênuo, meigo, flexível, sensível para compreender as pessoas fazendo-o ser um ótimo amigo, é uma pessoa que consegue facilmente a confiança dos outros."
+
+    },
+    {
+        "id": 3,
+        "nome": "Roi Mustang",
+        "idade": 29,
+        "bio": "A primeira vista, Roy é um homem arrogante e egocêntrico, famoso entre muitos de seus colegas e subordinados como egoísta e narcisista. Provavelmente tão arrogante quanto seu protegido, Edward, Mustang costuma ser exibicionista e aparenta agir muito mais por interesse próprio do que por algum sentimento altruísta. Para a maioria das pessoas, ele passa a impressão de um preguiçoso que tenta escapar da maior quantidade de trabalho possível, sentando em sua mesa sem ocupar-se de nada, com um sorriso, enquanto procrastina o máximo possível, mas que toma atitudes imediatas e trabalha duro quando há glória ou notoriedade envolvidos no serviço."
+    },
+    {
+        "id": 4,
+        "nome": "Riza Hawkeye",
+        "idade": 26,
+        "bio": "Riza é uma mulher quieta, centrada, com expressão séria, mas cortez. É vista por seus colegas como um exemplo de soldada perfeita; profundamente disciplinada e extremamente racional, ela raramente relaxa em serviço e normalmente recebe a tarefa de garantir que seus colegas trabalhem. Apesar de parecer estrita, rígida e até um pouco maldosa, Hawkeye não é tão fria e distante quanto aparenta. Aqueles mais íntimos a ela sabem que, sob a aura profissional, Riza é uma pessoa gentil, que conhece as dificuldades de carregar pesados fardos e culpas."
+    }
+
+
+
+]
