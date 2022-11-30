@@ -1,0 +1,30 @@
+[
+    {
+    "id": 0,
+    "nome": "Goku Kakarotto",
+    "idade": 41,
+    "genero": "masculino",
+    "profissao": "Saiyajin",
+    "bio": "Goku (孫 悟空, Son Gokū, ou Son Goku), nascido Kakarotto (カカロット, Kakarotto) é o protagonista das franquias Dragon Ball. Ele é neto adotivo de Vovô Gohan, filho de Bardock e Gine, o irmão mais novo de Raditz, o marido de Chichi, pai de Gohan e Goten, avô de Pan e mais tarde tataravô de Goku Jr. "
+
+},
+
+{
+    "id": 1,
+    "nome": "Vegeta",
+    "idade": 48,
+    "genero": "masculino",
+    "profissao": "Saiyajin",
+    "bio": "Assim que alcançou idade mínima, Vegeta passou a integrar o Comércio de Venda de Planetas. Em Dragon Ball Minus, o Saiyajin é mostrado conquistando outro planeta, ao lado de Raditz, contrariando a ordem de Freeza para voltar ao Planeta Vegeta. Como o príncipe se fora, Freeza aproveita e pessoalmente mata Rei Vegeta, Bardock bem como toda população saiyajin. Quando Vegeta, Raditz e Nappa retornam os três passam a ficar sob as ordens de Freeza."
+}, 
+
+{
+    "id": 2,
+    "nome": "Bulma",
+    "idade": 47, 
+    "genero": "feminino",
+    "profissao": "Cientista",
+    "bio": "Bulma é uma jovem garota muito inteligente e herdeira da fortuna da grande empresa de seu pai, a Corporação Cápsula.Certa vez ao entrar em seu porão ela encontra a Esfera de Duas estrelas ,e depois de pesquisar a história da esfera,ela constrói o Radar do Dragão com o objetivo de encontrar as outras esferas e realizar seu desejo de ter suprimentos de morango para a vida toda ,mas decide que quer o namorado perfeito em vez disso."
+}
+
+]
