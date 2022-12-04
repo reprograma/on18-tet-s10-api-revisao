@@ -1,0 +1,33 @@
+[{
+    "id" : 0,
+    "nome" : "Finn Mertens",
+    "idade" : 17,
+    "genero" : "Masculino",
+    "profissao" : "Heroi, Aventureiro",
+    "bio" : "Finn é um garoto humano de 17 anos, que junto com seu irmão Jake, vive procurando aventuras pela Terra de Ooo, salvando as pessoas de perigos e seres do mal."
+  },
+{
+    "id" : 1,
+    "nome" : "Jake",
+    "idade" : 28,
+    "genero" : "Masculino",
+    "profissao" : "Aventureiro",
+    "bio" : "Jake, o Cão é um dos personagens principais de Hora de Aventura. Ele é um híbrido de cão/metamorfo, referido pelos outros como um 'cão mágico'. É o maior companheiro do humano Finn, seu irmão adotivo. Jake é casado com a iriscórnia Lady Irís e tem 5 filhos."
+},
+{
+    "id": 2,
+    "nome": "Princesa Jujuba",
+    "idade": 827,
+    "genero": "Feminino",
+    "profissao": "Monarca, cientista",
+    "bio": "Princesa Bonnibel 'Bonnie' Jujuba (muitas vezes referida como PJ ou Jujuba), é um dos personagens principais de Hora de Aventura, introduzida no curta original criado por Pendleton Ward em 2007. Princesa Jujuba é a encarnação atual do elemental de doce, além de ser a governante do Reino Doce"
+},
+{
+    "id": 3,
+    "nome": "Marceline Abadeer",
+    "idade": 1003,
+    "genero": "Feminino",
+    "profissao": "Cantora, musicista",
+    "bio": "Marceline Abadeer, a Rainha dos Vampiros é uma das personagens principais de Hora de Aventura. Apesar de sua primeira aparição demonstrar uma natureza antagonista, com o passar da série a personagem se torna uma amiga próxima de Finn e Jake, e vai evoluindo sua personalidade e relacionamentos. Ao contrário dos vampiros convencionais, ela não precisa de sangue para viver, apenas se alimentando da cor vermelha. Ela é uma ávida musicista e cantora."
+}
+]
