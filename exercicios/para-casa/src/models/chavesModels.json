@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "nome": "chaves",
+        "idade": 8,
+        "genero": "masculino",
+        "profissao": "Estudante, Aprendiz de Sapateiro, Engraxate, Vendedor de Refrescos, Vendedor de Jornais"
+    
+
+    },
+    {
+        "id": 1,
+        "nome": "chiquinha",
+        "idade": 8,
+        "genero": "feminino",
+        "profissao": "estudante"
+    },
+    {
+        "id": 2,
+        "nome": "quico",
+        "idade": 9,
+        "genero": "masculino",
+        "profissao":"estudante, vendedor de refresco."
+    }
+    
+]
