@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "nome": "Juliano Enrico",
+        "idade": 8,
+        "genero": "Masculino",
+        "profissao": "estudante",
+        "Bio": "Ele é uma criança hiperativa e alegre. Possui imaginação fértil, adora brincar com comida, brincar com sua raquete de tênis e assistir aos filmes de seu maior ídolo, Steve Magal, com sua avó materna Gigi. Ele estuda na Escola Pônei Encantado, na mesma sala de aula que sua melhor amiga Lara e seu interesse amoroso, Ana Catarina."
+    },
+    {
+        "id": 1,
+        "nome": "Lara",
+        "idade": 8,
+        "genero": "Feminino",
+        "profissao": "estudante",
+        "Bio":"Lara é uma menina muito esperta e corajosa, e sempre disposta a ajudar seus amigos quando necessário, especialmente Irmão do Jorel. Ela demonstra ser bem inteligente, e chega a ser uma das crianças mais espertas da classe."
+    },
+    {
+        "id": 2,
+        "nome": "Jorel",
+        "idade": 13,
+        "genero": "Masculino",
+        "profissao": "estudante",
+        "Bio":"Jorel é um garoto muito esperto e, embora novo, aprende as coisas muito rápido e coleciona muitas conquistas. Ele, desde cedo, era esnobe e metido devido às suas habilidades."
+    },
+    {
+        "id": 3,
+        "nome": "Vovó Juju",
+        "idade": 67,
+        "genero": "Feminino",
+        "profissao": "estudante",
+        "Bio":"Ela é muito bondosa e carinhosa, principalmente com o Irmão do Jorel, e tem uma ingenuidade quase infantil."
+    }
+]
